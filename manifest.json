@@ -1,0 +1,9 @@
+{
+  "id": "internetvin-terminal",
+  "name": "InternetVin Terminal",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Embedded terminal for Obsidian with multi-tab support.",
+  "author": "Vin Verma",
+  "isDesktopOnly": true
+}
