@@ -20,6 +20,13 @@ An embedded terminal for Obsidian with multi-tab support, wiki-link autocomplete
 2. Search for "internetVin Terminal"
 3. Click Install, then Enable
 
+### From Beta Reviewer's Auto-update Tool
+1. Install [BRAT](https://tfthacker.com/BRAT) from [Obsidian Plugins](https://obsidian.md/plugins?search=brat)
+2. Obsidian Command Palette > "BRAT: Plugins: Add a beta plugin for testing (with or without version)"
+4. Enter the repository "https://github.com/internetvin/internetvin-terminal"
+5. Choose desired version
+6. Click Add Plugin
+
 ### Manual
 1. Download `internetvin-terminal.zip` from the [latest release](https://github.com/internetvin/internetvin-terminal/releases/latest)
 2. Unzip it and drag the `internetvin-terminal` folder into your vault's `.obsidian/plugins/`
