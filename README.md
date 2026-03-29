@@ -15,6 +15,15 @@ An embedded terminal for Obsidian with multi-tab support, wiki-link autocomplete
 
 ## Installation
 
+### With BRAT (recommended, auto-updates)
+
+1. Install the [BRAT plugin](https://github.com/TfTHacker/obsidian42-brat) from Obsidian's community plugins
+2. Open BRAT settings and click **Add Beta plugin**
+3. Enter `internetvin/internetvin-terminal` and click Add Plugin
+4. Enable the plugin in Settings > Community Plugins
+
+### Manual
+
 1. Download **internetvin-terminal.zip** from the [latest release](https://github.com/internetvin/internetvin-terminal/releases/latest)
 2. Unzip it
 3. Drag the `internetvin-terminal` folder into your vault's `.obsidian/plugins/`
